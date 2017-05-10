@@ -1,8 +1,8 @@
 from jobman import DD
 
 # the dir where there should be a subdir named 'youtube2text_iccv15'
-RAB_DATASET_BASE_PATH = '/data4/guozhao/predatas/MSVD/'
-RAB_FEATURE_BASE_PATH = '/data4/guozhao/features/MSVD/ResNet_152/'
+RAB_DATASET_BASE_PATH = '/mnt/disk2/guozhao/predatas/MSVD/'
+RAB_FEATURE_BASE_PATH = '/mnt/disk2/guozhao/features/MSVD/ResNet_152/'
 # the dir where all the experiment data is dumped.
 RAB_EXP_PATH = '/home/guozhao/results/hLSTMat/'
 
