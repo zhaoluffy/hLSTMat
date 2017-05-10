@@ -15,8 +15,8 @@ import metrics
 import utils
 
 from optimizers import adadelta
-from model_hLSTMat_pre.layers import Layers
-from model_hLSTMat_pre.model import Model
+from model_hLSTMat.layers import Layers
+from model_hLSTMat.model import Model
 
 from config import config
 from jobman import DD, expand
